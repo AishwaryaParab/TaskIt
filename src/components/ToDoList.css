@@ -1,0 +1,28 @@
+.todo-item {
+    width: 60vw;
+    border-radius: 8px;
+    background-color: #91B3FA;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    color: #E8EEFE;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.list-icons .icon {
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+.edit-input {
+    outline: none;
+    border: none;
+    background-color: #E8EEFE;
+    color: #91B3FA;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}

@@ -1,0 +1,30 @@
+.inspo {
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    position: relative;
+}
+
+.quote p {
+    width: 170px;
+    position: absolute;
+    transform: rotate(-11deg);
+    top: 30%;
+    left: 23%;
+    font-family: 'Raleway', sans-serif;
+    color: #1A0F90;
+}
+
+.quote img {
+    width: 250px;
+    height: 250px;
+    margin: 20px 50px;
+}
+
+.vector img {
+    width: 360px;
+    height: 360px;
+    margin: 0 20px;
+}
